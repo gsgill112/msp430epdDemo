@@ -9,19 +9,19 @@ I have Used the Epd library by Waveshare and modified it to work with the energi
 
   * MSP430 Connections :---------------------------
   * -----------------------------------------------
-  * EPD               MSP430FR2433      WIRING PIN
+  * EPD-------------MSP430FR2433---------WIRING PIN
   * -----------------------------------------------
-  * BUSY                P1.2                10
-  * RST                 P1.3                9
-  * DC                  P2.7                8
-  * CS                  P3.1                13
-  * CLK                 P2.4                7
-  * DIN/MISO            P2.6                15
+  * BUSY----------------P1.2----------------10
+  * RST-----------------P1.3----------------9
+  * DC------------------P2.7----------------8
+  * CS------------------P3.1----------------13
+  * CLK-----------------P2.4----------------7
+  * DIN/MISO------------P2.6----------------15
   * -----------------------------------------------
 
   Do visit me on 
   gsgill112.github.io
-  and suscribe to my YouTube channel it keeps the creativity going. 
+  and suscribe to my YouTube channel (https://www.youtube.com/channel/UC98erU8wYeEA-VqmTA9etNw?view_as=subscriber) it keeps the creativity going. 
 
 
   Copyright (C) TechNERVERS     Nov 12 2018
